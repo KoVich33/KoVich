@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.main_title{
+    font-size: 125px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: burlywood;
+    font-style:inherit;
+}
+
+.link{
+    font-size: 20px;
+    color: coral;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a{
+    font-size: 20px;
+    color: coral;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
