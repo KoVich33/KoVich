@@ -2,21 +2,39 @@ body{
     background-color: black;
 }
 
+a{
+    font-size: 20px;
+    color: coral;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .main_title{
     font-size: 125px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: burlywood;
     font-style:inherit;
+    text-align: center;
 }
 
 .link{
     font-size: 20px;
     color: coral;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
 
-a{
-    font-size: 20px;
-    color: coral;
+.vid_name{
+    font-size: 50px;
+    color: wheat;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.vid_date{
+    font-size: 15px;
+    color: wheat;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.videos{
+    text-align: justify;
 }
