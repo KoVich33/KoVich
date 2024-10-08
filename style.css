@@ -8,6 +8,10 @@ a{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+video{
+    height: 512px;
+}
+
 .main_title{
     font-size: 125px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
