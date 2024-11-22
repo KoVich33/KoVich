@@ -29,6 +29,10 @@ a{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.videos {
+    padding: 10%;
+}
+
 .vid_date{
     font-size: 15px;
     color: wheat;
