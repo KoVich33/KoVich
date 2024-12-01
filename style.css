@@ -46,3 +46,8 @@ a{
     justify-content: center;
     text-align: left;
 }
+
+::selection{
+    background-color: coral;
+    color: white;
+}
