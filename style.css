@@ -45,9 +45,12 @@ a{
     align-items: center;
     justify-content: center;
     text-align: left;
-}
 
 ::selection{
     background-color: coral;
-    color: white;
+    color: black;
+}
+
+progress {
+    background: coral;
 }
