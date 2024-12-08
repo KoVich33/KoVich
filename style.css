@@ -39,18 +39,15 @@ a{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.videoplayer{
+.video-player{
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: left;
+}
 
 ::selection{
     background-color: coral;
     color: black;
-}
-
-progress {
-    background: coral;
 }
