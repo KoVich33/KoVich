@@ -27,6 +27,7 @@ a{
     font-size: 50px;
     color: wheat;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10%;
 }
 
 .videos {
@@ -37,10 +38,12 @@ a{
     font-size: 15px;
     color: wheat;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10%;
 }
 
-.video-player{
-    width: 100%;
+.videoplayer{
+    padding-left: 10%;
+    padding-right: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,4 +53,8 @@ a{
 ::selection{
     background-color: coral;
     color: black;
+}
+
+.progress {
+    background: coral;
 }
