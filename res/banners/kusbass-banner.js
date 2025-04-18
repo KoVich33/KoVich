@@ -976,8 +976,8 @@ lib.properties = {
 	color: "#FFCC33",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_1.png?1744984741428", id:"CachedBmp_1"},
-		{src:"images/kusbass_banner_atlas_1.png?1744984741346", id:"kusbass_banner_atlas_1"}
+		{src:"images/CachedBmp_1.png", id:"CachedBmp_1"},
+		{src:"images/kusbass_banner_atlas_1.png", id:"kusbass_banner_atlas_1"}
 	],
 	preloads: []
 };
