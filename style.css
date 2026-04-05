@@ -50,6 +50,14 @@ a{
     text-align: left;
 }
 
+.page_text{
+    font-size: 50px;
+    color: wheat;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+
 ::selection{
     background-color: coral;
     color: black;
